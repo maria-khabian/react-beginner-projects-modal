@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-beginner-projects-modal/static/css/main.eab0744e.css",
+    "main.js": "/react-beginner-projects-modal/static/js/main.adc3dbe2.js",
+    "index.html": "/react-beginner-projects-modal/index.html",
+    "main.eab0744e.css.map": "/react-beginner-projects-modal/static/css/main.eab0744e.css.map",
+    "main.adc3dbe2.js.map": "/react-beginner-projects-modal/static/js/main.adc3dbe2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab0744e.css",
+    "static/js/main.adc3dbe2.js"
+  ]
+}
